@@ -1,0 +1,1 @@
+Logos für Fachbereiche von Lars erstellt.

@@ -1,0 +1,500 @@
+    6  cd ..
+    7  ls
+    8  mkdir ilias
+    9  ls
+   10  locate java
+   11  /usr/bin/java
+   12  ssh elearning@th.physik.uni-frankfurt.de
+   13  ls
+   14  nano ilias.log 
+   15  exit
+   16  cd public_html/ilias/Services/WebServices/RPC/lib/
+   17  java -Dfile.encoding=UTF-8 -jar 
+   18  export LC_CTYPE=de_DE.UTF-8
+   19  pear install XML_RPC
+   20  cd ..
+   21  cd WebServices/RPC/lib/
+   22  Kedit
+   23  nano ilServer.properties 
+   24  java -jar ilServer.jar ilServer.properties &
+   25  nano ilServer.properties 
+   26  export LC_CTYPE=en_EN.UTF-8
+   27  java -jar ilServer.jar ilServer.properties &
+   28  cd cd /home/elearning-test/
+   29  ls
+   30  mkdir lucindex
+   31  ls
+   32  nano ilServer.properties 
+   33  mkdir tmp
+   34  ls
+   35  rmdir lucindex/
+   36  ls
+   37  nano ilServer.properties 
+   38  cd tmp/
+   39  nano ilServer.properties 
+   40  cd ..
+   41  nano ilServer.properties 
+   42  ls
+   43  cd ..
+   44  cd .. 
+   45  cd ..
+   46  cd ilias/
+   47  java -Dfile.encoding=UTF-8 -jar ilServer.jar /home/elearning-test/public_html/ilias/Services/WebServices/RPC/lib/ilServer.ini start
+   48  cd Services/WebServices/RPC/lib/
+   49  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start
+   50  java -jar ilServer.jar ilServer.ini start
+   51  java -jar ilServer.jar ilServer.ini start &
+   52  cd /home/elearning-test/public_html/
+   53  ls
+   54  cd ilias/
+   55  ls
+   56  cd setup/
+   57  ls
+   58  exit
+   59  cd public_html/
+   60  cd ilias/
+   61  ls
+   62  svn update 
+   63  exit
+   64  mkisofs 
+   65  /usr/bin/mkisofs exit
+   66  exit
+   67  ssh elearning@th.physik.uni-frankfurt.de
+   68  exit
+   69  ssh elearning@th.physik.uni-frankfurt.de
+   70  echo LC_CTYPE
+   71  LC_CTYPE
+   72  echo $LC_CTYPE
+   73  export LC_CTYPE
+   74  export LC_CTYPE=de_DE.UTF-8
+   75  cd public_html/ilias/Services/WebServices/RPC/lib/
+   76  bluefish ilServer.properties 
+   77  java -jar ilServer.jar ilServer.properties
+   78  java -jar ilServer.jar 
+   79  java -jar ilServer.jar ilServer.properties
+   80  java -jar ilServer.jar ilServer.properties start
+   81  cls
+   82  clear
+   83  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start
+   84  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start &
+   85  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline
+   86  java -jar ilServer.jar ilServer.ini createIndex FB13PhysikOnline
+   87  cd ..
+   88  cd ../../../
+   89  ls
+   90  cd .svn
+   91  ls
+   92  cd ..
+   93  svn update 
+   94  svn -v update 
+   95  svn help update
+   96  clear
+   97  svn help
+   98  svn info
+   99  cd ..
+  100  cd ilias/
+  101  svn switch http://svn.ilias.uni-koeln.de/branches/Release_4_0_x_branch
+  102  cd ..
+  103  mkdir ilias
+  104  mv ilias ilias_old
+  105  ls
+  106  mkdir ilias
+  107  cd ilias
+  108  svn checkout http://svn.ilias.uni-koeln.de/branches/Release_4_0_x_branch
+  109  svn checkout http://svn.ilias.uni-koeln.de/trunk
+  110  svn checkout http:://svn.ilias.uni-koeln.de/branches/Release_4_0_x_branch
+  111  svn checkout http:://svn.ilias.uni-koeln.de/svn/branches/Release_4_0_x_branch
+  112  svn checkout http://svn.ilias.uni-koeln.de/svn/branches/Release_4_0_x_branch
+  113  svn checkout http://svn.ilias.uni-koeln.de/svn/branches/Release_4_0_x_branch ./
+  114  svn checkout http://svn.ilias.uni-koeln.de/svn/branches/Release_4_0_x_branch/ ./
+  115  svn checkout http://svn.ilias.uni-koeln.de/svn/ilias3/branches/Release_4_0_x_branch/ ./
+  116  svn update
+  117  exit
+  118  ip
+  119  ifc
+  120  ping th.physik.uni-frankfurt.de/~elearning-test
+  121  ping http://th.physik.uni-frankfurt.de/~elearning-test
+  122  ping http://th.physik.uni-frankfurt.de/
+  123  exit
+  124  ssh mariuss@th.physik.uni-frankfurt.de
+  125  cd public_html/ilias/Services/WebServices/RPC/lib/
+  126  ls
+  127  bluefish ilServer.properties 
+  128  exit
+  129  cd public_html/ilias/Services/WebServices/RPC/lib/
+  130  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start
+  131  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini stop
+  132  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start &
+  133  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline
+  134  java -jar ilServer.jar ilServer.ini createIndex ilias40_FB13-PhysikOnline
+  135  java -jar ilServer.jar ilServer.ini createIndex ilias40_FB13-PhysikOnline &
+  136  java -jar ilServer.jar ilServer.ini createIndex ilias40_0
+  137  java -jar ilServer.jar ilServer.ini createIndex ilias40_0 &
+  138  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline &
+  139  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline_0 &
+  140  h,
+  141  exit
+  142  ssh elearning @
+  143  ssh elearning@th.physik.uni-frankfurt.de
+  144  exit
+  145  ssh elearning@th.physik.uni-frankfurt.de
+  146  crontab e
+  147  crontab -e
+  148  nano crontab -e
+  149  crontab -e
+  150  export EDITOR="/usr/bin/nano"
+  151  crontab -e
+  152  time
+  153  times
+  154  time-admin 
+  155  exit
+  156  ssh elearning@th.physik.uni-frankfurt.de
+  157  exit
+  158  ssh elearning@th.physik.uni-frankfurt.de
+  159  exit
+  160  cd Documents/
+  161  ls
+  162  cd ../ilias/LargeObjects/
+  163  ls
+  164  tar xzvf deskmath1.tar.gz 
+  165  exit
+  166  ssh elearning@th.physik.uni-frankfurt.de
+  167  exit
+  168  cd .ssh/
+  169  nano known_hosts 
+  170  rm known_hosts 
+  171  touch authorized_keys
+  172  nano authorized_keys 
+  173  ssh elearning@th.physik.uni-frankfurt.de
+  174  exit
+  175  cd public_html/
+  176  ls
+  177  rm -r ilias_old
+  178  rm -rf ilias_old
+  179  ls
+  180  df
+  181  df | grep elearning
+  182  clear
+  183  df | grep elearning
+  184  clear
+  185  df | grep elearning
+  186  cd ..
+  187  ls
+  188  cd ilias_old/
+  189  ls
+  190  tar tcvf ilias_webdata_backup.tar.gz 
+  191  tar tzvf ilias_webdata_backup.tar.gz 
+  192  tar tzf ilias_webdata_backup.tar.gz 
+  193  tar tzvf ilias_webdata_backup.tar.gz 
+  194  ls
+  195  ls -Al
+  196  tar tzvf ilias_webdata_backup.tar.gz 
+  197  ls
+  198  cd /home/elearning
+  199  cd ./ilias_lm
+  200  tar xzvf ilias_webdata_backup.tar.gz 
+  201  tar xzvf ilias_lm.tar.gz 
+  202  cd public_html/ilias/data/FB13-PhysikOnline/container_data/obj_204/
+  203  ls -Al
+  204  chmod 555 icon_big.gif 
+  205  ls -Al
+  206  chmod 333 icon_big.gif 
+  207  ls -Al
+  208  chmod 777 icon_big.gif 
+  209  ls -Al
+  210  chmod 666 icon_big.gif 
+  211  ls -Al
+  212  chmod 666 icon_tiny.gif
+  213  chmod 661 icon_tiny.gif
+  214  ls -Al
+  215  chmod 662 icon_tiny.gif
+  216  ls -Al
+  217  chmod 663 icon_tiny.gif
+  218  ls -Al
+  219  chmod 664 icon_tiny.gif
+  220  ls -Al
+  221  chmod 664 *
+  222  ls -Al
+  223  cd public_html/ilias/Services/WebServices/RPC/lib/
+  224  ls
+  225  cd ..
+  226  php cron/cron.php schmidtma elCheffe01 FB13-PhysikOnline
+  227  exit
+  228  cd public_html/ilias/data/FB13-PhysikOnline/container_data/
+  229  öls
+  230  ls
+  231  cd obj_188/
+  232  ls
+  233  cd ..
+  234  chmod -R 664 ./*
+  235  chmod -R 777 ./*
+  236  clear
+  237  cd obj_188/
+  238  ls
+  239  ls -Al
+  240  chmod 664 ./* 
+  241  ls -Al
+  242  cd ..
+  243  chmod -r 664 ./* 
+  244  chmod -R 664 ./* 
+  245  cd obj_188/
+  246  ls -Al
+  247  chmod -R 764 ./* 
+  248  ls -Al
+  249  cd ..
+  250  chmod -R 764 ./* 
+  251  clear
+  252  cd container_data/
+  253  cd obj_188/
+  254  ls -Al
+  255  cd ..
+  256  ls
+  257  cd ..
+  258  chmod -R 754 ./*
+  259  ls -Al
+  260  chmod 750 client.ini.php 
+  261  ls -Al
+  262  cd container_data/
+  263  ls
+  264  ls -Al
+  265  cd ..
+  266  chmod -R 755 ./*
+  267  cd container_data/
+  268  chmod -R 755 ./*
+  269  cd obj_196
+  270  ls -Al
+  271  cd ..
+  272  chmod -R 755 ./*
+  273  cd ..
+  274  cd data/FB13-PhysikOnline/
+  275  ls
+  276  cd lm_data/
+  277  ls
+  278  cd lm_233/
+  279  ls
+  280  cd lm_443/
+  281  ls
+  282  mv * ../
+  283  ls
+  284  ls -Al
+  285  cd ..
+  286  ls
+  287  rm lm_443/
+  288  rmdir lm_443/
+  289  ls -Al
+  290  ls
+  291  cd ..
+  292  ls
+  293  cd ilias_old/
+  294  cd home/elearning/public_html/ilias/data/FB13-PhysikOnline/lm_data/
+  295  ls
+  296  cd lm_443/
+  297  cd ..
+  298  mv -r lm_443/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_233/
+  299  mv -R lm_443/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_233/
+  300  mv  ./lm_443/ /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_233/
+  301  ls
+  302  mv  ./lm_441/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_234/
+  303  mv  ./lm_238/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_235/
+  304  mv  ./lm_239/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_236/
+  305  mv  ./lm_240/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_237/
+  306  mv  ./lm_237/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_238/
+  307  mv  ./lm_234/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_240/
+  308  mv  ./lm_235/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_241/
+  309  mv  ./lm_1324/* /home/elearning-test/public_html/ilias/data/FB13-PhysikOnline/lm_data/lm_242/
+  310  cd public_html/ilias/Services/WebServices/RPC/lib/
+  311  ls
+  312  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline_0 &
+  313  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini FB13-PhysikOnline_0
+  314  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini FB13-PhysikOnline_0 start &
+  315  clear
+  316  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini FB13-PhysikOnline start &
+  317  clear
+  318  java -Dfile.encoding=UTF-8 -jar ilServer.jar ilServer.ini start &
+  319  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline_0 &
+  320  top
+  321  clear
+  322  localhost
+  323  ping 127.0.0.1
+  324  ping th.physik.uni-frankfurt.de
+  325  ping th.physik.uni-frankfurt.de:11111
+  326  ping th.physik.uni-frankfurt.de/elearning
+  327  ping th.physik.uni-frankfurt.de/elearning-test/
+  328  ping th.physik.uni-frankfurt.de
+  329  ls
+  330  nano ilServer.properties 
+  331  nano ilServer.ini 
+  332  ping 127.0.0.1
+  333  cd ../../../../../
+  334  cd ../
+  335  nano /tmp/ilServer.log 
+  336  rm /tmp/ilServer.log 
+  337  touch /tmp/ilServer.log 
+  338  nano /tmp/ilServer.log 
+  339  netstat 127.0.0.1
+  340  netstat 127.0.0.1 | grep 11111
+  341  netstat 127.0.0.1
+  342  netstat 10.60.0.4
+  343  nano /tmp/ilServer.log 
+  344  cd public_html/ilias/Services/WebServices/RPC/lib/
+  345  nano ilServer.ini 
+  346  java -jar ilServer.jar ilServer.ini createIndex FB13-PhysikOnline_0 &
+  347  nano /tmp/ilServer.log 
+  348  nano ilServer.properties 
+  349  nano ilServer.ini 
+  350  ls
+  351  nano README.txt 
+  352  java -jar ilServer.jar ilServer.ini status
+  353  nano README.txt 
+  354  java -jar ilServer.jar ilServer.ini search FB13-PhysikOnline_0 "Mechanik"
+  355  java -jar ilServer.jar ilServer.ini search FB13-PhysikOnline_0 "Lüdde"
+  356  java -jar ilServer.jar ilServer.ini search FB13-PhysikOnline_0 "Ficken"
+  357  java -jar ilServer.jar ilServer.ini search FB13-PhysikOnline_0 "Nichtlineare Dynamik"
+  358  cd /home/elearning-test/
+  359  ls
+  360  clear
+  361  netstat -nlp
+  362  netstat -nlp | grep elearning
+  363  netstat -n | grep elearning
+  364  netstat
+  365  netstat help
+  366  man netstat
+  367  netstat -nlp
+  368  netstat -nlp | grep 11111
+  369  tcp6       0      0 127.0.0.1:11111         :::*                    LISTEN      27908/java
+  370  lsof | grep LISTEN
+  371  cd public_html/ilias/data/FB13-PhysikOnline/container_data/
+  372  chmod -r 755 ./*
+  373  chmod -R 755 ./*
+  374  passwd 
+  375  exit
+  376  ssh elearning@th.physik.uni-frankfurt.de
+  377  exit
+  378  cd public_html/phpMyAdmin/
+  379  nano config.inc.php
+  380  exit
+  381  ssh pohland@th.physik.uni-frankfurt.de
+  382  ls
+  383  cd Desktop/
+  384  ls
+  385  cd bugs
+  386  cd Bugs
+  387  ls
+  388  cd Bugs
+  389  exit
+  390  cd public_html/
+  391  ls -Al
+  392  tar czf ilias_backup.tar.gz ilias/
+  393  ls
+  394  cd ..
+  395  cd phpMyBackup_config/
+  396  ls -Al
+  397  chmod 0777 global_conf.php 
+  398  chmod 0777 export/
+  399  ls -Al
+  400  cd ../public_html/
+  401  ls -Al
+  402  chmod 0777 phpMyBackupPro/
+  403  chmod -r 0777 phpMyBackupPro/
+  404  chmod -R 0777 phpMyBackupPro/
+  405  cd /var/lib/php5/
+  406  touch sess
+  407  ls 
+  408  cd /home/elearning-test/
+  409  ls -Al,
+  410  ls -Al
+  411  mkdir backups
+  412  cd backups/
+  413  mysqldump --add-drop-table -h th.physik.uni-frankfurt.de -u elearning -p elearning-test | bzip2 -c > elearning-test_20100722.sql.bz2
+  414  cd ..
+  415  cd public_html/
+  416  cd ilias/
+  417  svn update 
+  418  exit
+  419  cd Desktop/
+  420  ls
+  421  cd Desktop/
+  422  ls
+  423  cd linux.gtk.x86_64/
+  424  ls
+  425  cd jscivision/
+  426  ls
+  427  . jscivision
+  428  cd ..
+  429  cd linux.gtk.x86
+  430  cd
+  431  ls
+  432  pwd
+  433  cd Desktop/
+  434  cd linux.gtk.x86
+  435  ls
+  436  cd jscivision/
+  437  ls
+  438  . jscivision
+  439  sh jscivision
+  440  ./jscivision 
+  441  cd ..
+  442  cd linux.gtk.x86_64/
+  443  cd jscivision/
+  444  ./jscivision 
+  445  update-alternatives 
+  446  sudo update-alternatives
+  447  cat /proc/version
+  448  uname -m
+  449  file /sbin/init
+  450  exit
+  451  ls
+  452  w
+  453  id
+  454  id elearning
+  455  id koeppel
+  456  ls
+  457  ls -l
+  458  ls Maildir/
+  459  ls Maildir/new
+  460  #ls Maildir/new
+  461  history
+  462  history |less
+  463  ls+
+  464  l
+  465  ls
+  466  cat pass 
+  467  ls -lh pas
+  468  ls -lh pass 
+  469  chmod 600 pass 
+  470  ls -l
+  471  ls backups/
+  472  ls 
+  473  ls ilias
+  474  ls Desktop/
+  475  du -hs .
+  476  cd Desktop/
+  477  du -hs .
+  478  cd ..
+  479  ls
+  480  du -hs ilias_old
+  481  ls backups/
+  482  cd backups/
+  483  ls -lh
+  484  ls -l
+  485  cat pass 
+  486  mysql
+  487  mysql th.physik.uni-frankfurt.de
+  488  ping mysql.th.physik.uni-frankfurt.de
+  489  ls
+  490  cd ilias
+  491  ls
+  492  cd Fb
+  493  cd FbB
+  494  cd FB13-PhysikOnline/
+  495  ls
+  496  cd ..
+  497  ls
+  498  cat ilias.log 
+  499  exit
+  500  history | less
+  501  ls -l /home/koeppe
+  502  ls -l /home/koeppel
+  503  ls -lad /home/koeppel
+  504  ls -lad .
+  505  history > hist.log

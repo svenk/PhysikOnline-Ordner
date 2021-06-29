@@ -1,0 +1,24 @@
+html, body { width: 100%; height: 100%; background-color: black;
+	margin: 0; padding: 0; overflow: hidden; }
+body { text-align: center; }
+#wrapper, #banner, #nojs-link, html.no-js #banner  { max-width: 100%; max-height: 100%; border: none; position: relative; }
+
+html.js a { display: block; position: absolute;  }
+html.no-js a { text-indent: -1000em; }
+
+p, a span, html.no-js h1, html.no-js ul { display: none; }
+h1, ul, li { display: inline; }
+
+html.js #logo { top: 243px; left: 556px; width: 495px; height: 159px;
+	background-image: url("hot.logo.jpg"); }
+html.js #self { top: 970px; left: 220px; width: 408px; height: 209px;
+	background-image: url("hot.self.jpg"); }
+html.js #pe { top: 970px; left: 628px; width: 256px; height: 209px;
+	background-image: url("hot.pe.jpg"); }
+html.js #uni { top: 970px; left: 884px; width: 472px; height: 209px;
+	background-image: url("hot.uni.jpg"); }
+
+html.js a img { width: 100%; height: 100%; }
+
+html.js a img { opacity: 0; }
+html.js a:hover img, html.js a:active img { opacity: 1; }

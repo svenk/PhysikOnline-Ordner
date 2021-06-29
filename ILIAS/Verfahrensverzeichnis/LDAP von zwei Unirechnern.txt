@@ -1,0 +1,94 @@
+LDAP von Testy:
+
+sven@testy:~$ shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basedn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+... ou=HRZ > cat uid=s1239595,ou=User
+
+dn: uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: s1239595
+employeeType: student
+gidNumber: 7777
+homeDirectory: /home/stud3/s1239595
+loginShell: /bin/ksh
+sn: s1239595
+uid: s1239595
+uidNumber: 225600
+
+... ou=HRZ > exit
+sven@testy:~$ shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basedn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de --binddn uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+Bind password:
+Would you like to cache your connection information? [Y/n]: n
+... ou=HRZ > cat uid=s1239595,out=User
+invalid DN
+... ou=HRZ > cat uid=s1239595,ou=User
+
+dn: uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: s1239595
+employeeNumber: 3793686
+employeeType: student
+gidNumber: 7777
+homeDirectory: /home/stud3/s1239595
+loginShell: /bin/ksh
+sn: s1239595
+uid: s1239595
+uidNumber: 225600
+userPassword: {CRYPT}****** (wo ist der salt?)
+
+... ou=HRZ > exit
+sven@testy:~$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 00:0c:29:3a:28:89
+          inet addr:141.2.143.201  Bcast:141.2.143.255  Mask:255.255.255.0
+...
+
+LDAP von Ubuntu8 in VM, Dialin:
+
+sven@timothy-ubuntu:~$ shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+... ou=HRZ > cat uid=s1239595,ou=User
+
+dn: uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: s1239595
+employeeType: student
+gidNumber: 7777
+homeDirectory: /home/stud3/s1239595
+loginShell: /bin/ksh
+sn: s1239595
+uid: s1239595
+uidNumber: 225600
+
+... ou=HRZ > exit
+sven@timothy-ubuntu:~$ shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basedn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de --binddn uid=s1239595,ou=User
+Bind password: 
+LDAP bind error: Invalid credentials
+sven@timothy-ubuntu:~$ shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basedn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de --binddn uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+Bind password: 
+Would you like to cache your connection information? [Y/n]: n
+... ou=HRZ > cat uid=s1239595,ou=User
+
+dn: uid=s1239595,ou=User,ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: s1239595
+employeeNumber: 3793686
+employeeType: student
+gidNumber: 7777
+homeDirectory: /home/stud3/s1239595
+loginShell: /bin/ksh
+sn: s1239595
+uid: s1239595
+uidNumber: 225600
+userPassword: {CRYPT}*******
+
+... ou=HRZ > exit
+sven@timothy-ubuntu:~$ 
+
+IP war 141.2.24.126.
+
+LDAP von auﬂerhalb (Telekom DSL-Dialin):
+
+$ ./shelldap --server ldaps://gungnir.rz.uni-frankfurt.de --basedn ou=HRZ,o=Goethe-Universitaet,dc=uni-frankfurt,dc=de
+Unable to connect to LDAP server 'ldaps://gungnir.rz.uni-frankfurt.de': Connection timed out

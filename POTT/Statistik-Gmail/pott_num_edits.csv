@@ -1,0 +1,748 @@
+﻿ticket	num_edits	summary	component
+178	31	Kurzinterview - Triesch schneiden	Podcast-Wiki
+827	22	Tags für Worksheets	POKAL
+283	20	Kurzinterview - Philipsen schneiden	Allgemein
+406	20	Schokovideo online stellen?	Podcast-Wiki
+523	19	Design für ILIAS-Seiten erstellen	ILIAS
+782	18	Redesign Podcastwiki (Inhalte der Startseite, ...)	Podcast-Wiki
+382	17	HD-Button	Podcast-Wiki
+432	17	POKAL-Vorstellungsvideo schneiden	POKAL
+98	15	Schokovideo Offstimme aufnehmen	Podcast-Wiki
+249	15	Weiterleitung altes ILIAS	ILIAS
+278	15	alte Videos	Podcast-Wiki
+363	15	Ratzinger Arbeitsgruppenvideo	Allgemein
+97	14	oSA-Videoschnitt machen	Podcast-Wiki
+801	14	LDAP in Sagenb	POKAL
+176	13	Kurzinterview - Roskos schneiden	Podcast-Wiki
+331	13	Runterskalierte Videos anbieten	Allgemein
+361	13	Semesterstart-Meeting WS12/13 der Podcaster	Podcast-Wiki
+425	13	Jour Fixe für Podcaster WS 12/13 finden	Podcast-Wiki
+673	13	POTT2: Trac Due Dates wieder reparieren	POTT
+779	13	Drehtermin beim Loewe CSC	Allgemein
+823	13	JIRA reaktivieren	POKAL
+348	12	Suche in ILIAS funktioniert nicht	ILIAS
+961	12	Pretty_Print	POKAL
+243	11	Sachmittel kaufen	Podcast-Wiki
+460	11	Neue (Weihnachts-)Werbung für PWP auf PhysikOnline	Podcast-Wiki
+479	11	Flammensonde	Podcast-Wiki
+605	11	Designtreffen morgen 22.5. 12 Uhr?	Allgemein
+774	11	Adobe Software-Update über Uni	Podcast-Wiki
+2	10	LDAP: FreeRadius hat konstante Verbindungsanzahl	ILIAS
+187	10	Nächstes Meeting am Donnerstag 29.3.	Podcast-Wiki
+217	10	Kurzinterview - Stroth schneiden	Podcast-Wiki
+280	10	jingle dingle	Allgemein
+328	10	Meeting am Mi. 04.07.12, 13 Uhr	Podcast-Wiki
+335	10	Lernbar in PodcastWiki einbinden	Podcast-Wiki
+341	10	High Noon Semesterferien 2012 - Meeting	Allgemein
+103	9	Wollen wir den oSA-Schnitt selber machen?	Podcast-Wiki
+142	9	Fragen für Kurzinterviews	Podcast-Wiki
+200	9	Koordination Drehtage Mittwoch und Donnerstag	Podcast-Wiki
+303	9	Geschützte HTML-Inhalte im ILIAS sind ohne Anmeldung sichtbar	ILIAS
+397	9	Upgrade POTT 1.5	POTT
+427	9	Gedanken machen zum POKAL-Vorstellungsvideo-Plott	POKAL
+446	9	Webdav testen unter Windows	ILIAS
+459	9	PhysikOnline-Logo mit Weihnachtskappe	ILIAS
+473	9	Drucklayout für ILIAS	ILIAS
+564	9	Interview Wilhelm	Allgemein
+584	9	Dropbox-artige Filesharing-Lösung fürs Team	Allgemein
+632	9	Test-Umzug ILIAS von VM ins ITP	ILIAS
+674	9	POTT2: Mail2Trac bzw Procmail einstellen	POTT
+813	9	PhysikOnline Summer of Code 2014	POKAL
+917	9	"Ich beantrage eine ""News""-Sparte"	Allgemein
+931	9	Rename-Brainstorming PWP etc.	Allgemein
+938	9	Weiterrechnen wenn Benutzer das Worksheet verlässt	POKAL
+58	8	T-Shirts drucken	Allgemein
+114	8	Brainstorming: Kurzvorstellung Arbeitsgruppen	Podcast-Wiki
+132	8	Link auf Physik-Online erneuern (Uni Homepage)	ILIAS
+349	8	Latex funktioniert nicht	ILIAS
+369	8	Ticket-Abhängigkeiten im POTT	POTT
+370	8	PWP-Icons für iTunes machen	Podcast-Wiki
+415	8	Podcast-Werbung auf Loginseite machen	Podcast-Wiki
+426	8	POKAL-Videodreh und -Meeting - Bitte füllt kurz dieses Doodle aus!	Allgemein
+513	8	Arbeitsgruppe Mäntele	Podcast-Wiki
+532	8	Termin Mi 6.03. statt 14 Uhr um 16 Uhr?	Allgemein
+539	8	Sage-Server-Installation revisited	POKAL
+580	8	Benutzer altes ILIAS	ILIAS
+641	8	LESS serverseitig umwandeln	ILIAS
+702	8	Hübsche Startseite verschwindet sobald eingeloggt	ILIAS
+731	8	Neue PO3-Startseite	ILIAS
+795	8	"Fehlfunktion der ""Willkommen Box"""	ILIAS
+807	8	Erstes Semestermeeting - zu besprechen	Allgemein
+882	8	Spam im POTT	POTT
+901	8	RFC: Umgang mit öffentlichen Arbeitsblättern	POKAL
+929	8	Logodiskussion für PodcastWiki-Logo, et al.?	Allgemein
+57	7	Termin am Donnerstag bei Prof. Erb	Podcast-Wiki
+92	7	Neue Festplatten oder NAS kaufen	Podcast-Wiki
+116	7	Termin mit Erb am 22.3. um 10 Uhr	Podcast-Wiki
+137	7	2. POKAL-Treffen	POKAL
+157	7	Organisation Interviewdreh 14.03.	Podcast-Wiki
+193	7	Kurzinterview - Valenti schneiden	Podcast-Wiki
+195	7	Regelmäßigen Termin im Semester finden	Podcast-Wiki
+242	7	Angebot für Scheinwerfer erstellen	Podcast-Wiki
+247	7	Physik Online Logo	Allgemein
+325	7	PWP-Videos ruckeln in Chrome	Allgemein
+470	7	Podcaster-Meeting am 20.12.	Podcast-Wiki
+540	7	Treffen am Mi 13.03.13 um 16 Uhr	Allgemein
+622	7	Kurzinterview Prof. Henner Büsching	Podcast-Wiki
+628	7	ILIAS-Bug bei geschützten HTML-Ressourcen	ILIAS
+631	7	POTT2: Python-Handling in elearning-www-ITP-Account	POTT
+637	7	Java-Suchserver erreichbar machen	ILIAS
+640	7	Abschlussmeeting August 28.08.	Allgemein
+646	7	Ticker: PO3-Umzugsdetails 05.09.13	ILIAS
+654	7	PO3-Layoutbug: Administrationsseite nicht benutzbar	ILIAS
+700	7	PO-Layoutbug: Zerschossene Lehrmaterialien mit Navigation	ILIAS
+740	7	Bilder in Slider einfügen	Podcast-Wiki
+757	7	eMail2Trac ist mal wieder kaputt	POTT
+760	7	Sage lauscht publik?	POKAL
+918	7	PWP Banner auf Hauptseite für Touch optimieren	Allgemein
+31	6	Erinnerungsfunktion für POTT	POTT
+39	6	ILIAS Mobile installieren zum WS12/13	ILIAS
+59	6	Corporate Identity entwickeln (Logo)	Allgemein
+105	6	Redmine vs. Trac	POTT
+108	6	Fotos online stellen	Podcast-Wiki
+117	6	Wollen wir ein POKAL-Vorstellungsvideo selbst drehen?	Podcast-Wiki
+124	6	Sachmittelangebote einholen	Podcast-Wiki
+154	6	Valenti schneiden	Podcast-Wiki
+183	6	DRINGEND: Jeschke HEUTE interviewen	Podcast-Wiki
+219	6	2. POKAL-Treffen, nun im April	POKAL
+232	6	Teaser und PhysikOnline-Logo	Podcast-Wiki
+254	6	Neuen Podcaster-Trefftermin für Semester	Podcast-Wiki
+267	6	Kurzinterview - Gros schneiden	Allgemein
+308	6	Dateipfade der alten Videos	Podcast-Wiki
+317	6	Kann den ersten Teil zum Taylorvideo nicht finden (das ist die Version die im alten PCW schon online ist)	Allgemein
+347	6	Neue Prof. Interviews	Podcast-Wiki
+377	6	ILIAS 4.3 Evaluierung und Protokoll	ILIAS
+388	6	Hinweis an neu angemeldete Studenten, dass sie Klarnamen angeben sollen	ILIAS
+394	6	Webordner (WebDAV)-Anleitung schreiben	ILIAS
+401	6	Maple Daten fehlen auf ILIAS	ILIAS
+431	6	Antrag für FB Gelder nächstes Jahr	Allgemein
+435	6	Git-Managament der eLearning-Websites einrichten	ILIAS
+436	6	Besuch von Robert Brodhage	Allgemein
+450	6	Handexperimente - Gruppentreffen zum Dreh 28.11.12	Podcast-Wiki
+453	6	Sternwarte Feldberg: ExpAstro-Video - Ersterkundigung	Podcast-Wiki
+471	6	POTT-Feature: Kurzlink zur seite	POTT
+496	6	Geht Mail an Tickets noch?	POTT
+502	6	Kurzinterview mit Prof Jens Müller	Allgemein
+515	6	Podcaster-Treffen Semesterferien-Auftakt am 22.02.13	Podcast-Wiki
+545	6	Kurzinterview Krellner	Podcast-Wiki
+570	6	Test der Erinnerungsfunktion	POTT
+574	6	Upgrade MediaWiki	Podcast-Wiki
+642	6	Passende Bilder für PO3-Kopf	ILIAS
+677	6	Premiere streikt	Podcast-Wiki
+687	6	Hässlicher neuer Trac-Bug	POTT
+724	6	Bewerbungsgespräche	Podcast-Wiki
+742	6	Weihnachtsmütze 2013 für PhysikOnline	Allgemein
+770	6	"""Exporttool"" aktualisieren, ggf automator-skript neu nachschreiben oder neuschreiben"	Podcast-Wiki
+772	6	Protokoll POKAL-Treffen Freitag 7.2.2014	POKAL
+845	6	Protokoll POKAL-Meeting 16.05.14	POKAL
+879	6	1. Sprint: Task 6: Evaluierung des neuen Systems	POKAL
+881	6	Kontoeinstellungen:: Passwort ändern unter LDAP	POKAL
+884	6	Redirect Loop auf dev.pokal.uni-frankfurt.de	POKAL
+951	6	Worksheet duplizieren Funktion / Owner-Wechsel-Problem	POKAL
+3	5	ILIAS-Design ist nicht identifikationsstiftend	ILIAS
+11	5	E-Mail zu Ticket	POTT
+15	5	SEO und Verlinkung	ILIAS
+22	5	Open Access-Strategie für Projektbereich festlegen	POTT
+49	5	"Fabian will ""Mischpult"" mitbringen"	Podcast-Wiki
+65	5	Trac Ticket-Statistiken	POTT
+138	5	Termin für nächstes PhysikOnline-Meeting finden	Podcast-Wiki
+155	5	Podcaster-Treffen am Mo 12.03.	Podcast-Wiki
+179	5	Kurzinterview - Reifarth schneiden	Podcast-Wiki
+220	5	OsA Vorstellung am 30.04. 11:30-13:30 Uhr	Podcast-Wiki
+230	5	EMERGENCY Podcaster-Meeting am 03.05.	Podcast-Wiki
+245	5	elearning-Domain der ITP-IT übertragen	ILIAS
+270	5	Exporteinstellungen	Allgemein
+309	5	Siemsen Night of Science	Allgemein
+310	5	Teaser auf elearning/Materialien o.ä. verschieben	Podcast-Wiki
+314	5	Vorschaubilder als kleine Version zur Verfügung stellen	Podcast-Wiki
+344	5	PWP Feed als Podcast	Podcast-Wiki
+365	5	Physik Online vorstellen in Anfängervorlesung	ILIAS
+368	5	Google Webmaster Tools	Allgemein
+381	5	ILIAS 4.2.6 zum WS 12 einspielen	ILIAS
+429	5	Kursbeitrittsbenachrichtigung für Dozenten - Spam abschalten?	ILIAS
+438	5	ITP-IT-Treffen naechsten Montag	Allgemein
+451	5	Abspann für Podcast-Videos	Podcast-Wiki
+465	5	ILIAS 4.3 Stable released	Allgemein
+480	5	Video über HIC for FAIR	Podcast-Wiki
+487	5	Suche geht nicht	ILIAS
+490	5	Podcaster-Kickstartmeeting 2013 am Do 17.01. um 8 Uhr	Podcast-Wiki
+527	5	Bei THW mehr Speicherplatz für elearning-VM beantragen	ILIAS
+543	5	Podcast-Wiki-Feed die dritte	Podcast-Wiki
+551	5	Videobeleuchtung kaufen	Podcast-Wiki
+556	5	Videokamera	Allgemein
+562	5	POKAL Weiterförderung: Brainstorming für Ideen	POKAL
+567	5	Eskalierende Tickets	POTT
+577	5	Abgestürzte MySQL-Tabellen in ILIAS reparieren	ILIAS
+597	5	Ilias design treffen mi 15.05.	ILIAS
+624	5	Layout Startseite PodcastWiki	Podcast-Wiki
+634	5	No valid RADIUS responses	ILIAS
+636	5	Sammlung von Webserver-Problemen	ILIAS
+714	5	Print Layout in PO3	ILIAS
+751	5	Protokoll POKAL 2.0 Kickoff-Treffen	POKAL
+824	5	Protokoll POKAL-Meeting 09.05.14	Allgemein
+867	5	PDF-Previewer für elearning	POTT
+869	5	Interaktives Python mit POKAL	POKAL
+876	5	eLearning-Postfach-Mailkopien sollten automatisch archiviert werden	ILIAS
+935	5	Chat-History speichern	POKAL
+937	5	Introspection bug	POKAL
+962	5	Textzellen Synchronisation	POKAL
+971	5	POAK: Tags	POAK
+1	4	Hochschulpreis-Party machen	Podcast-Wiki
+6	4	Ticketansicht verbessern	POTT
+34	4	Private Wiki-Pages im POTT	POTT
+38	4	Wollen wir einen PhysikOnline-Blog?	Allgemein
+42	4	Richtigen Testserver aufbauen	ILIAS
+45	4	SeLF-Vortreffen am 27.01.2012 besuchen	POKAL
+54	4	Netzwerkdosen im 01.126 freischalten	Allgemein
+68	4	ITP-elearning-Account aufräumen	ILIAS
+71	4	MySQL-Datenbank rüberschieben (auf Test-VM)	ILIAS
+102	4	POTT  voll lahm geworden?	Allgemein
+109	4	TOP-Liste Podcaster-Treffen 14.02. (Valentinstag)	Podcast-Wiki
+143	4	PhysikOnlines Tanz in den März	Allgemein
+144	4	Quickie-Interviews: Rückmeldungen von Profs managen!!	Podcast-Wiki
+158	4	Fragen wer Bluescreen gekauft hat	Podcast-Wiki
+163	4	Kamera am Dienstag 13.03. besorgen	Podcast-Wiki
+174	4	Wer schneidet wen wann?	Podcast-Wiki
+197	4	Schnitt Experiment und Interview Roskos	Podcast-Wiki
+223	4	ILIAS-Nutzdaten auf ITP elearning-www schieben	ILIAS
+256	4	ITP-Accounts stimmen noch nicht	ILIAS
+292	4	Auf Tickets per Mail antworten	Allgemein
+304	4	PWP1.0 abwracken/umziehen	ILIAS
+311	4	Vorpsann vor Videos und Lautstärke	Allgemein
+316	4	Treffen (morgen) 20.6. 16 Uhr	Podcast-Wiki
+318	4	Altes Video Huth	Podcast-Wiki
+320	4	Alte Videos online stellen	Podcast-Wiki
+323	4	Zufällige Videos in Sidebar haben immer den gleichen Titel	Podcast-Wiki
+324	4	Bug auf PWP-Startseite	Allgemein
+332	4	Benutzerstatistiken für PodcastWiki machen	Podcast-Wiki
+355	4	POKAL-Projektstatus in den SeLF-Blog schreiben	POKAL
+357	4	ILIAS-Hauptmenü anpassen	Allgemein
+358	4	Sitemap erstellen	ILIAS
+362	4	PWP auf PO2 löschen	ILIAS
+380	4	Bartosch V2 High Quality	Podcast-Wiki
+386	4	Eigene Namensumbenennungen brechen Kursmitgliedschaften	ILIAS
+390	4	Checken, ob wir ans neue LDAP angebunden werden können	ILIAS
+404	4	Vorschaubild auch erstellen mit Videokonvertierungsapp	Podcast-Wiki
+440	4	Großes Koordinationstreffen PhysikOnline ITP-IT 20.11.12	Allgemein
+441	4	Piwik aktualisieren und zentralisieren	Allgemein
+442	4	Neue Videoideen - Sven und Ahmet 14.11	Podcast-Wiki
+452	4	Handexperimente - Gruppentreffen zur Vorabbesprechung 27.11.12	Allgemein
+467	4	Wie viele registrierte User hat PO?	ILIAS
+472	4	POKAL-Vorstellungsvideo: Tabelle mit gesichteten Rohaufnahmen	Podcast-Wiki
+482	4	Post-Vorlesungs-Interviews	Podcast-Wiki
+516	4	Podcaster-Treffen am 22.02.13 - Protokoll	Allgemein
+536	4	Warum verbraucht ILIAS so viel Speicher?	ILIAS
+559	4	ILIAS Einführung in Theo I+II bei Rischke geben	ILIAS
+563	4	Ankauf von zwei externen Festplatten	Allgemein
+573	4	Kurse kopieren in ILIAS geht nicht	ILIAS
+579	4	ILIAS Rechte	ILIAS
+589	4	ILIAS Mobile auf PO3 installieren und anpassen	ILIAS
+599	4	Foldable Input Cells oder externe Includes in POKAL	POKAL
+610	4	Cron-Spam-Mails im eLearning-Posteingang (Zombie)	Allgemein
+613	4	POKAL Idee: Gemeinsame Paint-Area	POKAL
+618	4	Physikalische Logos - Inspirationssammlung	ILIAS
+633	4	SageNB-Bug: Uploads werden vergessen	POKAL
+661	4	ILIAS Mobile zum WS 13/14	ILIAS
+666	4	PO3: Login/Logoutseiten zerschossen	ILIAS
+668	4	PO3-Layout: Breadcrumbs nicht inline	ILIAS
+676	4	Mögliches ReDesign der Startseite	ILIAS
+683	4	PO3-Design Bug: Menüleiste wird zweizeilig	ILIAS
+696	4	Fourierentwickelte Skyline implementieren	ILIAS
+708	4	PO3-Layoutbug: Editorseite zerschossen.	ILIAS
+709	4	PO3-Layoutbug: Header-Buttons mit zu großem Abstand	ILIAS
+712	4	Big Button Bug	ILIAS
+715	4	Feedback direkt senden	ILIAS
+746	4	Geeigneten Seminarraum buchen	Allgemein
+748	4	Ilias mobile wird nicht automatisch aktiv	ILIAS
+791	4	ILIAS-Suche mal wieder offline	ILIAS
+793	4	Optik von PO 3.0 verbessern	ILIAS
+802	4	Custom CSS for sage notebooks	POKAL
+810	4	Beim ILIAS-Login auf der Startseite erhält man keinen Fehler	ILIAS
+853	4	Änderungen am notebook-sourcecode	POKAL
+865	4	Auf POKAL2 mit HTTPs zugreifen	POKAL
+866	4	Protokoll UniPOKAL-Treffen 02. Juni 2014	Allgemein
+870	4	UniPhi-Domains er/umstellen	UniPhi
+883	4	Bundling der Javascript-Bibliotheken	POKAL
+899	4	NOS Dreh	Podcast-Wiki
+920	4	Abschlusstreffen SeLF2013 am 04.November	POKAL
+922	4	LDAP im ILIAS zum WS 14/15	ILIAS
+927	4	Feynman Lectures - PWP	Podcast-Wiki
+949	4	Defekter Formularmodus zur Gestaltung von Seiten	ILIAS
+966	4	BUG: Unsinnige und falsch Formatierte Chat-Benachrichtigung	POKAL
+5	3	Dezemberarbeiten fürs Schokovideo	Podcast-Wiki
+12	3	Impressum neuschreiben	ILIAS
+14	3	Altes eLearning-System abwracken	ILIAS
+27	3	Planung für nächste Videos	Podcast-Wiki
+41	3	SSL-Zertifikate besorgen	Allgemein
+48	3	Schokoversuch fertigstellen	Podcast-Wiki
+51	3	Sparsame POTT Emailerinnerungen	POTT
+53	3	Entwicklungsserver für ILIAS holen	ILIAS
+55	3	Domain physikelearning.de konfigurieren	Allgemein
+62	3	Schokovideo Final Cut und Offstimme	Podcast-Wiki
+69	3	Test-VM einrichten	Allgemein
+83	3	Meeting wg. OSA mit Stephanie Dinkelaker	Podcast-Wiki
+84	3	Feedbackmeeting am Di.	Podcast-Wiki
+93	3	Timeline nur für Podcast-Sachen	POTT
+106	3	TODO-Liste ILIAS Anfang Februar	Allgemein
+107	3	LDAP- Simple Bind für ILIAS programmieren	ILIAS
+112	3	Treffen mit Roger Erb am 16.2. 11 Uhr	Podcast-Wiki
+119	3	Treffen mit Prof. Lüdde	Podcast-Wiki
+126	3	Super-PhysikOnline-Donnerstag! (23.02.)	Allgemein
+127	3	Hilfetexte auf Physik Online 2.0 portieren	ILIAS
+151	3	Drehtermin Ratzinger 21.3. 14 Uhr	Podcast-Wiki
+162	3	Koffer für Kamera besorgen	Podcast-Wiki
+168	3	Transkription von Videos (Untertitel)	Podcast-Wiki
+210	3	Ostern	Allgemein
+211	3	eLearning Plattform down	ILIAS
+212	3	Brauchen wir die Delivery Failure-Mails?	ILIAS
+221	3	Fragen zu Podcast-Wiki NG	Podcast-Wiki
+225	3	Wir brauchen eine neue Batterie für die Mac Maus	Allgemein
+227	3	Domain podcast-wiki.physik besorgen	Podcast-Wiki
+228	3	SSL-zertifikat podcast-wiki.physik besorgen	Allgemein
+253	3	Aufteilungsplan elearning vs elearning-www	Allgemein
+266	3	Letzter Status PWP-Deploying am 10.05.	Podcast-Wiki
+268	3	Podcaster-Meeting am Do 24.05.2012 erstmals um 17 Uhr	Podcast-Wiki
+275	3	Feed access	POTT
+279	3	Vorabexport	Allgemein
+294	3	Kurzinterview - Roskos schneiden	Podcast-Wiki
+300	3	TODO-Liste für PWP-Launch	Podcast-Wiki
+301	3	Podcaster-Meeting um 16 Uhr	Podcast-Wiki
+326	3	Unveröffentlichte Videos schützen	Podcast-Wiki
+352	3	Mathe für Physiker 1 auf ILIAS umschwenken	Allgemein
+354	3	PO3: CAS von GDV nutzen?	Allgemein
+356	3	PWP: oSA-Einbindung korrigieren	Allgemein
+360	3	Cleanup WS12/13: Weiterführung des Videoprojektes Ratzinger/Podlech	Allgemein
+371	3	ITP-IT: Virtuelle Maschinen runterfahren nach Semesterstartpeak WS 12/13	ILIAS
+379	3	Test-VM wieder einsatzfähig machen	ILIAS
+383	3	PWP-Design mit IE7 testen	Podcast-Wiki
+387	3	Umlaute in Emails aus Ilias falsch	Allgemein
+389	3	E-Mail-Adressen bei Neuanmeldungen im ILIAS müssten bestätigt werden	ILIAS
+396	3	Bug in ILIAS: Nachrichten von Forum stellen Links falsch da.	ILIAS
+398	3	Backup-Framework für Server entwickeln	Allgemein
+409	3	Taylorreihe 2	Podcast-Wiki
+423	3	PWP Statistiken revisited	Podcast-Wiki
+437	3	POTT-Logo	POTT
+443	3	POKAL-web2	POKAL
+445	3	Protokoll vom Podcaster-Meeting Mi 22.11.12	Podcast-Wiki
+449	3	Kameraverfügbarkeit im WS 12/13 mit Hr. Schaun abklären	Podcast-Wiki
+454	3	Beleuchtung kaufen - Angebot zusammenstellen	Podcast-Wiki
+458	3	Diesen Donnerstag 29.11. 8 Uhr Podcaster-Treffen und neues Whenisgood	Allgemein
+469	3	Indizieren für weiteren ernsten Bug durch 4.3Stable-Update	ILIAS
+483	3	Bug beim PWP-Design unter Firefox/Ubuntu Linux	Podcast-Wiki
+489	3	POKAL-Gruppentreffen Anfang Januar	POKAL
+493	3	Werbung machen: Unireport und Plakate	Podcast-Wiki
+498	3	Protokoll 09.01.2013.pdf	Allgemein
+499	3	Protokoll 17.01.2013.pdf	Allgemein
+512	3	Kurzinterview schneiden - Prof. Müller	Allgemein
+517	3	Plenumssitzung PhysikOnline-Neuorganisation 27.02.2013	Allgemein
+519	3	Neue AG-Video-Ideen in den Semesterferien März 2013 - Profs anschreiben	Allgemein
+524	3	Bei Dozenten vorbeigehen für ILIAS-Benutzung im SS 2013	ILIAS
+525	3	Bessere Doku der ILIAS-Features anfertigen	ILIAS
+526	3	Außer-ILIAS-ige Lernmaterialien sammeln	ILIAS
+537	3	Semesterferien Zeitplanung.	Allgemein
+546	3	Kurzinterview Wilhelm	Podcast-Wiki
+550	3	Alte PhysikWiki	Allgemein
+571	3	News auf PO updaten	ILIAS
+581	3	Zurückmelden bei Samuel und Sage-Nb-Mailingliste	POKAL
+582	3	Kurze Einführung in WebDav schreiben	ILIAS
+588	3	ILIAS Nutzerverhalten Statistik/Daten	Allgemein
+614	3	Protokoll zum eLearning-Treffen 03.06.2013	Allgemein
+627	3	Es gibt ein neues ILIAS-Design	ILIAS
+629	3	MySQL-Saubermachen 2013	ILIAS
+639	3	GMW-Vortrag machen	POKAL
+650	3	Itp backupjobs neu aufsetzen	Allgemein
+653	3	ILIAS-Cronjob im ITP zähmen	ILIAS
+655	3	Feedbacksystem für PO3	ILIAS
+660	3	Bugreport zerschossene Seite in PO3	ILIAS
+669	3	PO3-Layout: Komisches Verhalten der Tabs	ILIAS
+680	3	ILIAS Clean URLs funktionieren nicht mit PHP als FastCGI	ILIAS
+681	3	PWP-Seite: Placeholder bei Vorschaubild entfernen	Podcast-Wiki
+686	3	PO3-Layoutbug: Breadcrumbs nicht inline	ILIAS
+690	3	PO3-Layoutbug: Auflistung Suchergebnisse	ILIAS
+691	3	PO3-Layoutbug in Suche	ILIAS
+694	3	PO3-Layoutbug in Suche	ILIAS
+703	3	No valid RADIUS responses received	ILIAS
+710	3	"Kategorie ""Spaß""?"	Podcast-Wiki
+713	3	PO3-Layoutbug: Forum nicht benutzbar	ILIAS
+716	3	Werbung auf PO3-Startseite	Allgemein
+768	3	Weihnachtsglückwünsche von PWP Seite nehmen	Podcast-Wiki
+771	3	"Erstes Mockup & Konzept für ""Allgemeine-Umfassende-PhysikOnline-Titel&Menüleiste"""	Allgemein
+778	3	Lustiges Video zur Präsentation von POKAL	POKAL
+786	3	Ticket CC-Feld sollte Autocomplete haben	POTT
+794	3	Code-Review/Rewrite der Frankfurt Skyline Javascript	ILIAS
+803	3	PO3-Layoutbug: Footer-Textüberschneidungen	ILIAS
+822	3	Protokoll POKAL-Meeting 02.05.14	POKAL
+849	3	PO3-Header auf iPad völlig zerschossen	ILIAS
+868	3	UniPhi-Server einrichten	UniPhi
+873	3	UniPhi-Werbung	UniPhi
+877	3	How to switch notebooks?	POKAL
+888	3	UniPhi erster Sprint	UniPhi
+889	3	Test-Ticket für Ticket-Abhängigkeiten	POTT
+936	3	Ergebnisauslieferung über Websocket	POKAL
+944	3	Nicknames in POKAL	POKAL
+955	3	"Suche ""x"""	POKAL
+960	3	BUG: Alle Zellen evaluieren	POKAL
+965	3	OnJoin Benachrichtung wer gerade an diesem Worksheet arbeitet	POKAL
+975	3	Single sign-on (SSO) für POKAL und POAK	POAK
+4	2	ILIAS-Wikiengine ist schrott	ILIAS
+7	2	Zentralen Login für Trac machen	POTT
+9	2	Ticketsystem kann viele Sachen nicht	POTT
+13	2	Einstiegsseite neuschreiben	ILIAS
+17	2	Podcast-Wiki-Website neuschreiben	Podcast-Wiki
+18	2	Agilo for Trac	POTT
+20	2	Dev-Wiki auflösen	POTT
+23	2	Weltherrschaft	Allgemein
+24	2	POTT öffentlich machen!!!	POTT
+26	2	Anonymous hat User-Rechte	ILIAS
+28	2	Timeline zeigt Ticket-Diskussion nicht an	POTT
+37	2	Hübsche Fehlerseiten	ILIAS
+46	2	Szenen drehen vor Schokoriegel versuch	Podcast-Wiki
+52	2	Schokolade essen	Podcast-Wiki
+61	2	Ticket updates by default anzeigen	POTT
+63	2	Off-Text Schokovideo	Podcast-Wiki
+66	2	ITP elearning-test-Account drüberschauen und IT bescheid geben	Allgemein
+67	2	WOL für IMac	Allgemein
+70	2	Einzelne Dienste dokumentieren	Allgemein
+72	2	Nutzdaten rüberschieben auf elearning-ITP-Account	ILIAS
+73	2	Trac in ITP-Infrastruktur umziehen	POTT
+74	2	Fabians ''Zoom H4n Handy Recorder'' am IMac testen und Aufnahme vorbereiten	Podcast-Wiki
+75	2	Meeting Ende der Woche organisieren	Podcast-Wiki
+78	2	Im elearning-Posteingang Ordner aufräumen	Allgemein
+79	2	Entwicklungs-VM für POKAL holen	POKAL
+81	2	POKAL-Vorstellung am Kickoff-Meeting	POKAL
+87	2	WOL für IMac testen	Podcast-Wiki
+90	2	Ticketbeschreibung bearbeiten	POTT
+91	2	1. oSA-Drehtermin	Podcast-Wiki
+94	2	POTT-E-Mails sind kryptisch	POTT
+96	2	Kalender im POTT	POTT
+101	2	Treffen mit Roger Erb am 02.02.2012	Podcast-Wiki
+104	2	Admin-Account POTT	POTT
+110	2	POKAL-Übergangshost einrichten	POKAL
+111	2	An Projektmanagament-Workshops teilnehmen	POKAL
+122	2	oSA: Previewfotos	Podcast-Wiki
+135	2	Harald anfragen wg. Funkmirkros & Bluescreen	Podcast-Wiki
+147	2	Bluescreen wieder aufgetaucht	Allgemein
+161	2	Bei professionellen Fotoläden vorbeischauen	Allgemein
+165	2	Termine machen für 3. und 4. Interviewdrehtag	Podcast-Wiki
+166	2	Kurzteaser entwickeln	Podcast-Wiki
+171	2	Batterien/Akkus für Ansteckmikros	Podcast-Wiki
+189	2	Professoren wegen Vorlesungen auf Physik Online ansprechen	ILIAS
+198	2	Vorspann	Allgemein
+199	2	Organisation Interviewdreh 29.03	Podcast-Wiki
+206	2	Rechte Herr Schaun	ILIAS
+213	2	8TB Speicher vom ITP nutzen	Podcast-Wiki
+218	2	SS2012 Kickoff-Podcaster-Meeting 19.April	Podcast-Wiki
+234	2	OKs für Kurzinterviews von Profs holen: Videos online stellen	Podcast-Wiki
+235	2	POKAL-Video drehen am Do 10.05.2012	Podcast-Wiki
+240	2	Sage NB Komponenten kennenlernen	POKAL
+244	2	PDF für Slider klarer machen	Podcast-Wiki
+246	2	Was ist das provisorische eLearning?	ILIAS
+248	2	PWPNG Conversion Marathon	Podcast-Wiki
+252	2	Master Technical Launch Plan für PWPNG	Allgemein
+255	2	Final Call for Publication - Podcaster-Meeting Do 10.05. um 9 Uhr ST	Podcast-Wiki
+263	2	Konfiguration für Podcast-Wiki NG auf ITP-Server	Podcast-Wiki
+264	2	elearning-Datenbanken auf ITP-IT	Podcast-Wiki
+312	2	PodcastWiki Physik ist fertig	Podcast-Wiki
+313	2	PWP Feed	Podcast-Wiki
+321	2	Texte einstellen	Allgemein
+329	2	Meeting-Protokoll Podcaster-Meeting am Mi 04.07.12	Allgemein
+333	2	Ilias Account für Herrn Gross erstellen	Allgemein
+336	2	Umzug innerhalb Büros	Allgemein
+343	2	"Protokoll Podcaster-Meeting ""High Noon"" 30.09.2012"	Allgemein
+345	2	SeLF-Zwischentreffen 01.10.2012 - Pflicht	POKAL
+346	2	Konvertierungsscripte auf IMac laufen lassen	Podcast-Wiki
+350	2	ILIAS 4.3 installieren	ILIAS
+351	2	Idee: Feedback-Button auf eLearning	Allgemein
+353	2	Facebook nutzen zwecks werbung	Allgemein
+374	2	Apache Lucene-Suchserver in ITP-Infrastruktur!??	ILIAS
+375	2	Performance: Caching in ILIAS?	Allgemein
+376	2	Alten ILIAS-Client löschen	ILIAS
+384	2	ILIAS-Reset-CSS zerschiesst Lehrmittel	ILIAS
+391	2	POKAL app - SAGE math for Android	POKAL
+399	2	Podcast Wiki Startseite Videos in 2 Spalten?	Podcast-Wiki
+400	2	POTT wird ein Jahr alt	Allgemein
+413	2	Bei Roskos vorbeigehen und Veröffentlichung fokussieren	Podcast-Wiki
+433	2	POTT sollte private Inhalte farblich hervorheben	POTT
+439	2	SD-Karten kaufen	Podcast-Wiki
+448	2	Aktuellen Stand Ratzinger-Video exportieren	Podcast-Wiki
+455	2	Stativ für Bluescreen - Angebot einholen	Podcast-Wiki
+457	2	Diskussionsseiten in der PWP müssen öffentlich bearbeitbar sein	Podcast-Wiki
+462	2	eLearning-Netzwerktag am Mi 05.12.12	Allgemein
+475	2	eLecture-Werbung schalten	Allgemein
+485	2	Vorbesprechung zum FP-Supraleitungs-Versuch	Podcast-Wiki
+492	2	Rechnung stellen - wohin?	Podcast-Wiki
+500	2	Protokoll Podcaster-Kickstart 2013 Meeting am 17.01.	Podcast-Wiki
+528	2	Bearbeitung von Include-Files online ermöglichen	ILIAS
+530	2	Ungeschütztes Material temporär sperren	ILIAS
+538	2	Pokal nginx reparieren	POKAL
+555	2	POKAL-Abschlussbericht schreiben	POKAL
+560	2	GMW 2013 Nachwuchspaper bis 15.04.2013	POKAL
+566	2	Treffen mit Alex am 04.04.	POKAL
+568	2	ILIAS Design-Konzeptionelle Sitzung	Allgemein
+572	2	Treffen 10.04.13	Allgemein
+585	2	Stativ kaufen	Podcast-Wiki
+587	2	Kurzinterview - Prof. Krellner	Podcast-Wiki
+594	2	POKAL-Bug: Evaluieren-Button geht nicht	POKAL
+596	2	Programmier-Tutorien	POKAL
+601	2	Sage-Installationen anderer Unis	POKAL
+602	2	POKAL-jquery-Plugins für Mouse-Tracking	POKAL
+608	2	Dreh F-Praktikum	Podcast-Wiki
+612	2	Idee: Gemeinsam Linux lernen	POKAL
+617	2	Protokoll zum eLearning-Treffen 10.06.2013	Allgemein
+620	2	Ordner im elearning-Posteingang verschwunden?	Allgemein
+623	2	Coole Physik-Videos	Podcast-Wiki
+625	2	POKAL SAGE SEO	POKAL
+626	2	Präsentable Web-Notebooks: Ipython nbviewer	POKAL
+635	2	Typo in ILIAS Einstellungen	ILIAS
+638	2	MathJax in POKAL funktioniert nicht mehr	POKAL
+643	2	Login von PO3-Startseite geht nicht	ILIAS
+645	2	Willkommen zu PO3-Text entfernen	ILIAS
+657	2	ILIAS@ITP: Kurzlinks + öffentlichen Bereich überprüfen	ILIAS
+664	2	PWP-Seiten ausbauen	Podcast-Wiki
+665	2	E-Mails schreiben mit ILIAS geht nicht	ILIAS
+670	2	AccountManager für POTT2	POTT
+671	2	Kurzlinksystem broken	ILIAS
+675	2	Musik für Videos	Podcast-Wiki
+682	2	Neues PO-Design sieht buggy aus in x2go	ILIAS
+684	2	PO3-Design: Akkordion-Farben kaputt	ILIAS
+685	2	PO3-Layoutbug: Tablayout	ILIAS
+688	2	Treffen in der ersten Woche WS 13/14	Allgemein
+689	2	Designfrage Footer PO3	Allgemein
+692	2	Google soll kein PO3 Feedback mehr schicken	ILIAS
+693	2	PO3-Layoutbug: Breadcrumbs nicht inline	ILIAS
+699	2	PO3 Feedback	ILIAS
+701	2	PO3 Feedback	ILIAS
+719	2	SeLF-Kurzportrait für POKALv2 schreiben	POKAL
+726	2	POTT/PWP Anleitungen schreiben	Allgemein
+732	2	PO3-Layoutbug: Tabs unter Chrome sehen komisch aus	ILIAS
+733	2	WebDAV in ILIAS geht nur lesend	ILIAS
+734	2	PO3-Layoutbug: Ausblendung von Navigationselementen schlägt fehl	ILIAS
+743	2	Meetingprotokoll lesen	Podcast-Wiki
+747	2	Page not found 404 - Physikelearning.de	ILIAS
+749	2	Skylinebugs und Schnee	ILIAS
+752	2	Protokoll PO-Meeting 17.12.2013 - letztes 2013-Meeting	Allgemein
+754	2	Redesign des POTT	POTT
+761	2	Zweiter Serverraumbesuch für Setup der POKAL-Rechner 2-5	POKAL
+765	2	Serverraumbesuch 29.01.2014	POKAL
+769	2	Notizen POKAL Frameworks	POKAL
+773	2	Wollen wir Latex-Formeln in PodcastWiki?	Podcast-Wiki
+777	2	Kurze Frage: Schriftart Podcastwiki Titel ?	Podcast-Wiki
+788	2	Videokonvertierungsscripte: Funktion und Qualität	Podcast-Wiki
+789	2	Protokoll PhysikOnline-Treffen am Mi 26.02.2014	Allgemein
+790	2	"ILIAS-Mails ""Neue Mails im Posteingang"""	ILIAS
+798	2	SeLF-Zwischentreffen am 27.03.2014	POKAL
+809	2	SageNB wird eingestampft	POKAL
+819	2	PWP Newsvideos und UTV	Podcast-Wiki
+821	2	PO3-Designbug Ansicht und Tableiste	ILIAS
+825	2	"Chat: ""Online""-Anzeige"	POKAL
+826	2	Chat: Latex-Funktion	POKAL
+828	2	"Verbesserung: Auflistung ""published Worksheets"""	POKAL
+829	2	POKAL1 heißt jetzt endlich nicht mehr elearning-dev2	POKAL
+830	2	Finanzbereinigter UniPhi-Antrag	UniPhi
+831	2	Wie die UniPhi-Startseite aussehen könnte	UniPhi
+835	2	Dreh: GSC Einweihung	Podcast-Wiki
+836	2	Textcursor von Kollaboratoren anzeigen	POKAL
+850	2	Zum abnicken: Hannah Petersen (final)	Podcast-Wiki
+863	2	Meteor-Installationsanleitung	UniPhi
+885	2	PO3 Feedback	ILIAS
+891	2	PO3 Feedback	ILIAS
+904	2	Socketio-Messages vom Server aus schicken	POKAL
+905	2	PhysikOnline-Gesamttreffen 11. Juli	Allgemein
+911	2	POKAL2: Stand 18.07.14	POKAL
+913	2	Protokoll Gesamtgruppentreffen 21. Juli 2014	Allgemein
+930	2	POKAL2: Stand 27.08.14	POKAL
+933	2	PO3-Layoutbug: Baum nicht benutzbar	ILIAS
+940	2	User Koordination in POKAL	POKAL
+942	2	POAK läuft jetzt unter der gleichen Domain wie (dev) Sage	POAK
+948	2	PO3 Feedback	ILIAS
+956	2	Redesign POKAL	POKAL
+963	2	Stellenausschreibung für PWP WS 14/15 schreiben	Podcast-Wiki
+968	2	Einführungswochenrekrutierung	Allgemein
+8	1	Trac-Template säubern	POTT
+10	1	Testticket	Allgemein
+16	1	Logging saubermachen	ILIAS
+21	1	Blog als Lernmodule	ILIAS
+25	1	Backup für PhysikOnline-VM einrichten	ILIAS
+29	1	POTT nutzen	POTT
+32	1	Drehtermin Woche 09.12. bis 13.12. vereinbaren	Podcast-Wiki
+35	1	Verlinkte Partnerprojekte werden schlecht dargestellt	ILIAS
+36	1	Fußzeilen-Links im ILIAS waren kaputt	ILIAS
+40	1	Dev-Seite abschließen	Allgemein
+43	1	Masterplan zur Rettung von ILIAS	ILIAS
+50	1	Formular für neue Wiki-Seiten zusammenschreiben	POTT
+80	1	testticket for Email	Allgemein
+88	1	Backup auf IMac einrichten / über Speicherplatz nachdenken	Podcast-Wiki
+95	1	Forum statt Tickets zur Diskussion	POTT
+99	1	Zweiwöchigen Jour fixe finden	Podcast-Wiki
+100	1	Nächstes Podcast-Wiki-Treffen am 14.02.	Podcast-Wiki
+113	1	Ratzinger ansprechen wegen Arbeitsgruppenvideo	Podcast-Wiki
+115	1	Termin mit Ratzinger am 5.3. um 10 Uhr	Podcast-Wiki
+128	1	Mail an ITP-IT vorbereiten nach 1. POKAL-Meeting	Allgemein
+146	1	TODO Freitag 02.03.2012 / Vorbereitung Kurzinterviews	Podcast-Wiki
+152	1	Jan seine Speicherkarte zurückgeben	Podcast-Wiki
+164	1	oSA: Roskos-Drehtermin festmachen	Podcast-Wiki
+170	1	Nächstes Podcast-Wiki-Treffen Mitte/Ende März	Podcast-Wiki
+172	1	Kopfhörer für Dreh mitbringen	Podcast-Wiki
+173	1	Kamera und Speicherkarten zurückgeben am 15.03.	Podcast-Wiki
+175	1	PhysikOnline Grand Master Plan SS 2012	ILIAS
+185	1	oSA: Roskos-Rohmaterialien Stephanie zur Vorabsichtung hochladen	Podcast-Wiki
+186	1	Backup von Schnittmaterial machen	Podcast-Wiki
+188	1	Ratzinger Drehtermin Mi. 28.3. 10 Uhr	Podcast-Wiki
+190	1	HRZ-Cams zurückbringen nach Drehtag 21.03.2012	Podcast-Wiki
+192	1	oSA: Schnitt korrigieren?	Podcast-Wiki
+196	1	Regelmäßige POKAL-Treffen	POKAL
+202	1	Schaun und HRZ Email schreiben	Podcast-Wiki
+205	1	Warten auf Terminvorschlag Robert und Podlech	Podcast-Wiki
+216	1	Technik für neue Podcast-Wiki-Website	Podcast-Wiki
+222	1	PhysikOnline bei Facebook?	Allgemein
+224	1	Produktinfos zum HRZ Stativ	Podcast-Wiki
+226	1	Wöchentliche Kameraverfügbarkeit bei Hrn. Schaun erfragen	Podcast-Wiki
+229	1	elearning.physik-Domaineintrag für POKAL-Entwicklungsmaschine besorgen	Allgemein
+231	1	Videostandard festlegen	Allgemein
+233	1	Bluescreen kaufen	ILIAS
+236	1	POKAL-Entwicklungsserver einrichten	POKAL
+237	1	SAGEmath in Verwendung nehmen	Allgemein
+238	1	Neues Podcast Wiki Design	Podcast-Wiki
+250	1	Riedberg-SeLF-Treffen am Freitag - NOS, Videos!	Allgemein
+251	1	Lüdde Raumreservierung	Allgemein
+257	1	SeLF-POKAL-Vorstellungsvideo drehen am Do 10.05	Podcast-Wiki
+260	1	Flimmerbilder - Video Export	Allgemein
+261	1	Arbeiten am Imac	Allgemein
+269	1	Video Vorlage	Allgemein
+276	1	NOS SeLF-Stände	POKAL
+277	1	Physik Fußballturnier am 07.07.12	Allgemein
+281	1	Meeting 6.6.12	Podcast-Wiki
+284	1	PWPNG Live Launch Zugangssystem	Podcast-Wiki
+293	1	Benutzeraccounts für Podcast Wiki	Podcast-Wiki
+299	1	Podcaster-Meeting am 06.06.12	Allgemein
+305	1	PWP2.0 Design technisch fertigmachen	Podcast-Wiki
+306	1	Wiki Link in Navigation ändern	Podcast-Wiki
+315	1	Workflow um Videos zu veröffentlichen	Allgemein
+319	1	Kurzinterview Krozer fertigschneiden	Podcast-Wiki
+334	1	oSA Testphase	Allgemein
+337	1	01.08.12	Allgemein
+338	1	Experimente	Allgemein
+340	1	PWP auf Safari testen	Podcast-Wiki
+364	1	ILIAS-Meeting vor Semesterstart	ILIAS
+366	1	Video-Beschreibungstexte exportierbar machen	Podcast-Wiki
+367	1	Google Webmaster Tools	Allgemein
+372	1	Vollen Redirect für altes ILIAS schalten	ILIAS
+373	1	Redirection-System UTF-8-sicher machen	POTT
+378	1	ILIAS-Overlaysystem programmieren	ILIAS
+393	1	PO2.1: LaTex zum laufen kriegen	ILIAS
+395	1	Terminfindung fürs SeLF-Video bis Do 25.10.	POKAL
+403	1	Semesterstart-Meeting WS12/13 der Podcaster -- Protokoll	Allgemein
+407	1	NoS Roskos	Podcast-Wiki
+408	1	Neuer Vorspann für AG Dörner und Huth	Podcast-Wiki
+410	1	Sind noch wichtige Dateien auf dem iMac	Podcast-Wiki
+416	1	Sendung Phi bei ARTE	Podcast-Wiki
+417	1	Mehrsprachige ILIAS-Portalseiten	ILIAS
+420	1	POTT-Account für Daniel Roth	POKAL
+422	1	elearning-dev2 Software	POKAL
+424	1	Werbung für Lunchtime lectures	ILIAS
+428	1	POKAL-Branding / Layout	POKAL
+444	1	Podcaster-Meeting am 22.10.2012	Allgemein
+447	1	Drehtermin mit Robert Brodhage fürs Ratzinger-Video	Podcast-Wiki
+456	1	Schiebt die von euch geschnittenen Videos bitte in den eLearning-Account	Podcast-Wiki
+466	1	PWP-Mediawiki updaten	Podcast-Wiki
+474	1	Testserver offline nehmen/nicht erreichbar machen	Allgemein
+476	1	Server für POKAL zusammenschrauben	POKAL
+478	1	Frohe Weihnachten und nen frohes neues Jahr	Allgemein
+481	1	(Layout-)Bugs seit POTT-Upgrade 1.5	POTT
+484	1	Protokoll vom Podcaster-Meeting Do 20.12.12	Podcast-Wiki
+486	1	Videos von F-Praktikumsversuchen - Protokoll Vorbesprechung mit Hrn Müller	Podcast-Wiki
+494	1	iPhones zusammenbauen	Allgemein
+495	1	eLearning Account Speicher	Allgemein
+504	1	LMU AP-Videos anschauen	Podcast-Wiki
+518	1	Anleitung wie man PWP-Videos passwortschützt	Podcast-Wiki
+521	1	Protokoll 09.01.2013.pdf	Allgemein
+522	1	Protokoll 17.01.2013.pdf	Allgemein
+531	1	Erkundigen, was Cams kosten	Podcast-Wiki
+534	1	Großes Korruptionsproblem mit der eLearning-VM	ILIAS
+535	1	Unser eLearning-Angebot zum SS 2013	ILIAS
+544	1	Piwik von ILIAS ist kaputt	ILIAS
+547	1	eLearning-Images für Carsten und Philip machen	ILIAS
+549	1	Präsentation POKAL am Freitag 22.03. auf dem SeLF-Netzwerktag	POKAL
+552	1	Backup-Lösung für POKAL-Server implementieren	POKAL
+553	1	Bereich überlegen, in dem POKAL-Materialien sinnvoll gehostet werden können	POKAL
+561	1	"Lang und Reifarth ""anwerben"""	Allgemein
+565	1	Neue Passwörter machen	Allgemein
+578	1	POKAL Vorgehensplanung April 2013	POKAL
+590	1	Neuen SeLF-Antrag für POKAL 2.0	POKAL
+593	1	Dev-Server auflösen	ILIAS
+600	1	600 Tickets im POTT!	POTT
+603	1	"Andere Uni-Podcasts: Heute ""Dauerwelle"""	Podcast-Wiki
+604	1	Freigabe für Kurs-Umstrukturierung Demopraktikum	ILIAS
+611	1	Notizen zum neuen ILIAS-Design nach Treffen Ende Mai	Allgemein
+615	1	Bitte schiebt eure Videos vom IMac auf den eLearning-Speicher	Podcast-Wiki
+619	1	eLearning-Treffen 17.06.2013	Allgemein
+621	1	Protokoll zum eLearning-Treffen 17.06.2013	Allgemein
+630	1	Protokoll 24.06. Notizen Sven	Allgemein
+644	1	Google Docs kann interaktiv Formeln bearbeiten	POKAL
+651	1	POTT an PO3-Design anpassen	POTT
+667	1	Googlebot füllt PO3 Feedback aus	ILIAS
+672	1	POTT2: Trac Static Data fixen	POTT
+698	1	PO3-Layoutbug: Zeilenumbruch in Header	ILIAS
+704	1	PO3 Feedback	ILIAS
+705	1	CLI-PHP Segmentation fault	ILIAS
+717	1	Werbung auf PWP-Startseite	Podcast-Wiki
+718	1	Fifavideo: Warum Seitentitel ungleich Videotitel	Podcast-Wiki
+720	1	Protokoll PO-Meeting am 22.10.2013	POKAL
+721	1	Material Nichtlineare Systeme sichten	POKAL
+722	1	Bewerbungsformular generisch machen	Allgemein
+723	1	WebDAV-Zugriff checken	ILIAS
+727	1	Mobile-Layout PodcastWiki	Podcast-Wiki
+728	1	Bilder von uni sammeln	ILIAS
+729	1	Designidee PWP-Startseite	Podcast-Wiki
+730	1	Typo in bewerbung	Allgemein
+737	1	Mails aus ILIAS heraus	ILIAS
+738	1	Umlaute in ZIP-Dateien werden von ILIAS nicht richtig behandelt	ILIAS
+744	1	eLearning-Netzwerktag am Mo 09.12.2013	POKAL
+745	1	Neue Terminfindung für Jour Fixe Ende 2013	Allgemein
+750	1	Mathematica-Workshop Anfang 2014 der Biologen	POKAL
+753	1	Accounts sperren	Allgemein
+755	1	Buggy Skyline	ILIAS
+756	1	TIcket #751 Anhang	Allgemein
+759	1	Sichtung der POKAL-Racks am 10.01.2014	POKAL
+764	1	eLearning-Treffen 21.01.2014	Allgemein
+775	1	Karteikartensystem testen (Anki)	ILIAS
+776	1	Protokoll PO-Meeting am Di 11.02.2014	Allgemein
+780	1	PO3 Feedback (Test)	ILIAS
+784	1	Informationen zum Stand der SMC	POKAL
+797	1	POKAL2 verschickt tausende Mails pro Tag	POKAL
+799	1	PDFs im POTT sollten leichter anzeigbar sein	POTT
+811	1	POTT-Graph: Links werden nicht erkannt	POTT
+816	1	Ursachenanalyse des geringen PWP-Outcomes	Podcast-Wiki
+820	1	Zeitungsartikel über PWP in Studizeitung	Podcast-Wiki
+832	1	Campusführung auf dem Riedberg filmen	Podcast-Wiki
+834	1	Online REPs	POKAL
+837	1	Neuste Version von Sage verwenden	POKAL
+838	1	Gemeinsames Arbeiten in einer Zelle	POKAL
+847	1	Seitenleistenbug im ILIAS	ILIAS
+854	1	Grafiken und Latex-Formeln funktionieren nicht in Pokal2	POKAL
+855	1	Protokoll POKAL-Meeting 25.05.14	POKAL
+858	1	UniPhi-DB-Modelle	UniPhi
+861	1	Elevator Pitch	UniPhi
+872	1	Spam-Hölle im POTT und auf ITP-Mailinglisten	POTT
+875	1	Gesamttreffen 6.6.2014	Allgemein
+900	1	900 voll!	POTT
+906	1	MongoDB-Installation auf POKAL3	UniPhi
+908	1	Gleiches Arbeiten an Dateien auf POKAL2	Allgemein
+909	1	UniPhi: Materialienseite Rautewirtschaft	UniPhi
+910	1	Chatfenster sollte sich beim Scrollen nicht mit der Seite mitbewegen	POKAL
+912	1	Neuer Branch 'better_publishing'	POKAL
+914	1	Offene Ports auf POKAL2	POKAL
+915	1	Json-Linked Data	UniPhi
+919	1	Das Jahr des Lichtes 2015	Podcast-Wiki
+925	1	Trefftermine PO vor WS 14/15-Start	Allgemein
+926	1	Verfahrensverzeichnis zum WS 14/15	Allgemein
+934	1	"Tickets ""aufgeben"""	Allgemein
+941	1	Der neue jährliche Freeradius-Bug	ILIAS
+947	1	Notizen an Zellen	POKAL
+950	1	PO3 Feedback	ILIAS
+952	1	"""aktiv"" Indikator"	POKAL
+957	1	POAK	POAK
+967	1	Endloses Ladesymbol beim Aufrufen von nicht-existierenden öffentlichen Arbeitsblättern	POKAL
+969	1	Kommentarfunktion in POAK	POAK
+973	1	Worksheet Rating Feature in Sage	POKAL
+977	1	POKAL Layout bei kleinem Fenster	POKAL
